@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "M\u00e1s de un tercio de las muertes que ocurren todos los a\u00f1os a nivel mundial se atribuyen a la malnutrici\u00f3n y, concretamente, a la desnutrici\u00f3n, que debilita la resistencia del organismo a las enfermedades. Si una mujer embarazada esta malnutrida, o si su hijo presenta malnutrici\u00f3n durante los primeros dos a\u00f1os de vida, el crecimiento y el desarrollo f\u00edsico y mental del ni\u00f1o se retrasaran. Esta situaci\u00f3n es dif\u00edcil de revertir y afecta al ni\u00f1o durante el resto de su vida.", 
+  "language": "spa_ES", 
+  "title": "La nutrici\u00f3n y el crecimiento", 
+  "primary_category": "fe21cfb70c8c4701b78f2598cef0d353", 
+  "created_at": "2015-04-15T14:07:52.770453+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-15T14:07:52.770639+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "1. Los ni\u00f1os de corta edad deben crecer y aumentar de peso con rapidez. Desde el nacimiento hasta los 2 a\u00f1os, se los debe pesar peri\u00f3dicamente para evaluar este crecimiento.\r\n\r\n2. La leche materna es, por s\u00ed sola, el \u00fanico alimento y la \u00fanica bebida que el lactante necesita durante sus primeros seis meses de vida. A partir de esta edad, el ni\u00f1o debe recibir una variedad de alimentos, adem\u00e1s de la leche materna, para crecer y desarrollarse sanamente.\r\n\r\n3. Entre los 6 y los 8 meses, el beb\u00e9 debe empezar a comer de dos a tres veces al d\u00eda, y a partir de los 9 meses, de tres a cuatro veces al d\u00eda, adem\u00e1s de la leche materna. \r\n\r\n4. Las comidas deben ser momentos de aprendizaje, afecto y contacto con la familia para que no s\u00f3lo contribuyan al desarrollo f\u00edsico del ni\u00f1o, sino tambi\u00e9n a su desarrollo social y emocional.\r\n\r\n5. Los ni\u00f1os necesitan vitamina A para resistir las enfermedades, proteger su visi\u00f3n y disminuir el riesgo de muerte. \r\n\r\n6. Los ni\u00f1os necesitan alimentos ricos en hierro para prevenir la anemia y para poder desarrollar sus habilidades f\u00edsicas y mentales. \r\n\r\n7. El yodo es fundamental en el r\u00e9gimen alimentario de las mujeres embarazadas y los ni\u00f1os peque\u00f1os, pues desempe\u00f1a una funci\u00f3n clave en el desarrollo del cerebro infantil, es esencial para prevenir los problemas de aprendizaje y el retraso en el desarrollo. \r\n\r\n8. La falta de higiene en las manos y en los alimentos es una de las causas primordiales de diarrea y otras enfermedades que provocan p\u00e9rdida de energ\u00eda y de los nutrientes necesarios para el crecimiento y el desarrollo de los ni\u00f1os. \r\n\r\n9. Cuando los ni\u00f1os est\u00e1n enfermos deben ingerir una mayor cantidad de l\u00edquidos; adem\u00e1s, hay que alentarlos para que coman peri\u00f3dicamente. Los lactantes necesitan amamantarse m\u00e1s a menudo. Cuando mejoran, todos los ni\u00f1os necesitan comer m\u00e1s que antes de enfermarse, a fin de recuperar la energ\u00eda y la condici\u00f3n nutricional perdidas.\r\n\r\n10.Los ni\u00f1os demasiado delgados y/o hinchados requieren atenci\u00f3n m\u00e9dica especial y sin demoras.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-nutricion-y-el-crecimiento", 
+  "uuid": "9ac2fc4ccaf64a17a1362d9fcc944dd7"
+}
