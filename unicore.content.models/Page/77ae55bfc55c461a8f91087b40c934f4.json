@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Todos los a\u00f1os mueren m\u00e1s de 1,4 millones de ni\u00f1os a causa de enfermedades que se pueden prevenir\r\npor medio de vacunas f\u00e1cilmente disponibles.", 
+  "language": "spa_ES", 
+  "title": "Las vacunas ", 
+  "primary_category": "fe21cfb70c8c4701b78f2598cef0d353", 
+  "created_at": "2015-04-15T14:14:14.836497+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-15T14:14:14.836705+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "1. Las vacunas son una medida urgente. Todos los ni\u00f1os deben completar el calendario de vacunaci\u00f3n recomendado. \r\n\r\n2. Las vacunas protegen contra varias enfermedades peligrosas. Los ni\u00f1os que no est\u00e1n vacunados tienen m\u00e1s probabilidades de enfermarse, de estar desnutridos, de sufrir una discapacidad permanente e, incluso, de morir.\r\n\r\n3. No entra\u00f1a riesgo alguno vacunar a un ni\u00f1o que presenta malnutrici\u00f3n, una afecci\u00f3n leve o una discapacidad.\r\n\r\n4. Todas las mujeres embarazadas y sus hijos reci\u00e9n nacidos deben estar protegidas contra el t\u00e9tanos. \r\n\r\n5. Se debe utilizar una jeringa nueva para cada persona que se vacuna, y todo el mundo debe exigir que este requisito se cumpla. Tambi\u00e9n se debe cuidar la cadena de fr\u00edo para la conservaci\u00f3n de las vacunas. \r\n\r\n6. En condiciones de hacinamiento, las enfermedades se propagan a gran velocidad. Todos los ni\u00f1os y las ni\u00f1as que viven en estas condiciones, sobre todo si son refugiados o han sufrido una situaci\u00f3n de desastre, deben ser inmunizados de inmediato, con todas las vacunas del calendario nacional. \r\n\r\n7. Si es posible, antes de recibir cualquier vacuna, se debe presentar al agente de salud la cartilla de vacunaci\u00f3n.\r\n\r\n8. Cada oportunidad de contacto de un ni\u00f1o o ni\u00f1a con los servicios de salud, debe utilizarse para comprobar el estado de su calendario de inmunizaciones. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "las-vacunas", 
+  "uuid": "77ae55bfc55c461a8f91087b40c934f4"
+}
