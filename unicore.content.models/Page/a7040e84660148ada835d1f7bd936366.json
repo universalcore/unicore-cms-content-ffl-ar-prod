@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "La diarrea es la segunda causa m\u00e1s frecuente de muerte en el mundo en los ni\u00f1os y ni\u00f1as de corta edad. En la Argentina, probablemente debido a sucesivas campa\u00f1as de salud, al incremento de la lactancia materna y a una mayor disponibilidad de agua potable, esta dolencia ya no figura entre las 5 causas principales de mortalidad infantil. De todos modos, es importante saber que los episodios de diarrea repetidos, aunque sean leves, pueden detener el desarrollo y el crecimiento de los ni\u00f1os. ", 
+  "language": "spa_ES", 
+  "title": "La diarrea", 
+  "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
+  "created_at": "2015-04-15T14:22:28.815379+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-15T14:22:28.815657+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "1. La diarrea puede matar a un ni\u00f1o o ni\u00f1a porque extrae los l\u00edquidos de su cuerpo, haciendo que se deshidrate. Por ello, ante esta enfermedad es esencial la ingesta de l\u00edquidos adicionales. \r\n\r\n2. La vida del ni\u00f1o o ni\u00f1a est\u00e1 en peligro si tiene muchas deposiciones l\u00edquidas en el transcurso de una hora o si hay sangre en la materia fecal. En estos casos es preciso solicitar ayuda de un m\u00e9dico de inmediato. \r\n\r\n3. La lactancia materna como \u00fanica alimentaci\u00f3n durante los primeros seis meses de vida y despu\u00e9s de los seis meses acompa\u00f1ada de otros alimentos, contribuye a reducir los riesgos para la salud infantil asociados a la diarrea.\r\n\r\n4. Un ni\u00f1o o ni\u00f1a que padezca diarrea debe continuar comiendo con regularidad. \r\n\r\n5. Un ni\u00f1o o ni\u00f1a que padezca diarrea deber\u00eda tomar una soluci\u00f3n de sales de rehidrataci\u00f3n oral. Los medicamentos para la diarrea suelen ser ineficaces y pueden hacer da\u00f1o; los antibi\u00f3ticos no suelen ser necesarios.\r\n\r\n6. Para prevenir la diarrea, la materia fecal, incluida la de los beb\u00e9s y los ni\u00f1os y ni\u00f1as de corta edad, debe eliminarse en un inodoro o letrina, o bien enterrarse. \r\n\r\n7. Las pr\u00e1cticas \u00f3ptimas de higiene y el agua potable protegen contra la diarrea. ", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-diarrea", 
+  "uuid": "a7040e84660148ada835d1f7bd936366"
+}
