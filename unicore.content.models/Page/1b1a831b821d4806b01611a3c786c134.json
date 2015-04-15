@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "La Fiebre amarilla es una enfermedad infecciosa aguda causada por un virus, trasmitida por un mosquito, que enferma a personas y monos. Esta enfermedad puede tener una forma grave que causa insuficiencia renal y hep\u00e1tica, hemorragia digestiva y otras hemorragias. Si bien no tiene un tratamiento espec\u00edfico, hay una vacuna que previene la infecci\u00f3n.", 
+  "language": "spa_ES", 
+  "title": "La fiebre amarilla", 
+  "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
+  "created_at": "2015-04-15T14:25:40.150219+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-15T14:25:40.150410+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "1. La fiebre amarilla es una enfermedad febril producida por un virus que se transmite a trav\u00e9s de la picadura de un mosquito. \r\n\r\n2. Los ni\u00f1os y ni\u00f1as corren peligro siempre que vivan o viajen a zonas en donde haya fiebre amarilla. \r\n\r\n3. La fiebre amarilla no tiene tratamiento espec\u00edfico, pero se puede prevenir. \r\n\r\n4. Todos los ni\u00f1os, ni\u00f1as y adolescentes mayores de 1 a\u00f1o que viven en zonas de riesgo o viajen a ellas deben vacunarse contra la enfermedad.\r\n\r\n5. Un ni\u00f1o o ni\u00f1a que viva o haya viajado a una zona de riesgo, que comience a tener fiebre y no se haya vacunado, debe consultar inmediatamente con un trabajador de salud.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "la-fiebre-amarilla", 
+  "uuid": "1b1a831b821d4806b01611a3c786c134"
+}
