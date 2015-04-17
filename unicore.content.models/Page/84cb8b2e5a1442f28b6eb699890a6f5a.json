@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "Todos los ni\u00f1os, ni\u00f1as y adolescentes tienen derecho, a sentirse seguros, acogidos, escuchados, a\r\nrecibir los cuidados adecuados y a crecer en un entorno que los proteja.", 
+  "description": "La protecci\u00f3n de la infancia y la adolescencia", 
   "language": "spa_ES", 
   "title": "La protecci\u00f3n de la infancia y la adolescencia", 
   "primary_category": "87a9890e43e244c68364ff3065ba043d", 
-  "created_at": "2015-04-15T13:31:33.926037+00:00", 
+  "created_at": "2015-04-15T13:31:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T13:31:33.926405+00:00", 
+  "modified_at": "2015-04-17T14:25:02.504603+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. Tienen derecho a crecer y desarrollarse en su familia de origen y el derecho a la preservaci\u00f3n de la misma.\r\n\r\n2. Tienen derecho a la identidad, a recibir un nombre y adquirir una nacionalidad, a la lengua y cultura de su lugar de origen, a la inscripci\u00f3n del nacimiento, registraci\u00f3n y documentaci\u00f3n.\r\n\r\n3. Tienen derecho a la dignidad e integridad personal y deben ser protegidos de la violencia y los malos tratos. \r\n\r\n4. Tienen derecho a estar protegidos contra el trabajo infantil. La incorporaci\u00f3n temprana al mundo del trabajo da\u00f1a su salud y calidad de vida, los expone a situaciones de violencia o abuso y les impide el acceso a una educaci\u00f3n de calidad y la participaci\u00f3n en actividades l\u00fadicas y deportivas necesarias para su desarrollo.\r\n\r\n5. Tienen derecho a estar protegidos frente al abuso y la explotaci\u00f3n sexual. Quienes sean v\u00edctimas de tales aberraciones necesitan ayuda inmediata para poner fin a este maltrato. \r\n\r\n6. Tienen derecho a estar protegidos frente a la trata de personas, delito contemplado en el C\u00f3digo Penal Argentino desde el a\u00f1o 2008. \r\n\r\n7. Por su condici\u00f3n de personas en desarrollo, tienen derecho a una justicia especializada cuando se encuentran en conflicto con la ley y a que se instrumenten procedimientos tendientes a evitar su revictimizaci\u00f3n cuando han sufrido alg\u00fan delito grave.\r\n\r\n8. Tienen derecho a la salud y a la educaci\u00f3n, a un medio ambiente sano y a realizar deportes y juegos recreativos. \r\n\r\n9. Tienen derecho a opinar y a ser o\u00eddos, a disponer de informaci\u00f3n adecuada para su edad, y a participar en la toma de decisiones que les conciernen.\r\n\r\nLos derechos enunciados se aplican por igual a todos las ni\u00f1as, ni\u00f1os y adolescentes, sin discriminaci\u00f3n alguna fundada en motivos raciales, de sexo, color, edad, idioma, religi\u00f3n, creencias, opini\u00f3n pol\u00edtica, cultura, posici\u00f3n econ\u00f3mica, origen social o \u00e9tnico, capacidades especiales, salud, apariencia f\u00edsica o impedimento f\u00edsico, de salud, de nacimiento o en cualquier otra condici\u00f3n del ni\u00f1o o de sus padres o de sus representantes legales.", 
+  "content": "Todos los ni\u00f1os, ni\u00f1as y adolescentes tienen derecho, a sentirse seguros, acogidos, escuchados, a\r\nrecibir los cuidados adecuados y a crecer en un entorno que los proteja.\r\n\r\n1. Tienen derecho a crecer y desarrollarse en su familia de origen y el derecho a la preservaci\u00f3n de la misma.\r\n\r\n2. Tienen derecho a la identidad, a recibir un nombre y adquirir una nacionalidad, a la lengua y cultura de su lugar de origen, a la inscripci\u00f3n del nacimiento, registraci\u00f3n y documentaci\u00f3n.\r\n\r\n3. Tienen derecho a la dignidad e integridad personal y deben ser protegidos de la violencia y los malos tratos. \r\n\r\n4. Tienen derecho a estar protegidos contra el trabajo infantil. La incorporaci\u00f3n temprana al mundo del trabajo da\u00f1a su salud y calidad de vida, los expone a situaciones de violencia o abuso y les impide el acceso a una educaci\u00f3n de calidad y la participaci\u00f3n en actividades l\u00fadicas y deportivas necesarias para su desarrollo.\r\n\r\n5. Tienen derecho a estar protegidos frente al abuso y la explotaci\u00f3n sexual. Quienes sean v\u00edctimas de tales aberraciones necesitan ayuda inmediata para poner fin a este maltrato. \r\n\r\n6. Tienen derecho a estar protegidos frente a la trata de personas, delito contemplado en el C\u00f3digo Penal Argentino desde el a\u00f1o 2008. \r\n\r\n7. Por su condici\u00f3n de personas en desarrollo, tienen derecho a una justicia especializada cuando se encuentran en conflicto con la ley y a que se instrumenten procedimientos tendientes a evitar su revictimizaci\u00f3n cuando han sufrido alg\u00fan delito grave.\r\n\r\n8. Tienen derecho a la salud y a la educaci\u00f3n, a un medio ambiente sano y a realizar deportes y juegos recreativos. \r\n\r\n9. Tienen derecho a opinar y a ser o\u00eddos, a disponer de informaci\u00f3n adecuada para su edad, y a participar en la toma de decisiones que les conciernen.\r\n\r\nLos derechos enunciados se aplican por igual a todos las ni\u00f1as, ni\u00f1os y adolescentes, sin discriminaci\u00f3n alguna fundada en motivos raciales, de sexo, color, edad, idioma, religi\u00f3n, creencias, opini\u00f3n pol\u00edtica, cultura, posici\u00f3n econ\u00f3mica, origen social o \u00e9tnico, capacidades especiales, salud, apariencia f\u00edsica o impedimento f\u00edsico, de salud, de nacimiento o en cualquier otra condici\u00f3n del ni\u00f1o o de sus padres o de sus representantes legales.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-proteccion-de-la-infancia-y-la-adolescencia", 
   "uuid": "84cb8b2e5a1442f28b6eb699890a6f5a"
