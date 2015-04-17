@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "En la Argentina, las enfermedades respiratorias \u2013principalmente la neumon\u00eda\u2013 son la tercera causa en importancia de mortalidad de ni\u00f1os menores de 5 a\u00f1os, cuyas cifras alcanzan alrededor de 1.000 muertes anuales. La neumon\u00eda mata a m\u00e1s ni\u00f1os y ni\u00f1as que el SIDA, el paludismo y el sarampi\u00f3n juntos en todo el mundo: una de cada cinco muertes de menores de 5 a\u00f1os es consecuencia de esta infecci\u00f3n respiratoria. ", 
+  "description": "La tos, el catarro y otras enfermedades m\u00e1s graves", 
   "language": "spa_ES", 
   "title": "La tos, el catarro y otras enfermedades m\u00e1s graves", 
   "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
-  "created_at": "2015-04-15T14:24:14.003429+00:00", 
+  "created_at": "2015-04-15T14:24:14+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:24:14.003779+00:00", 
+  "modified_at": "2015-04-17T14:22:41.895795+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. Si un ni\u00f1o (o ni\u00f1a) tiene tos, hay que mantenerlo abrigado sin exceso, confortable y animarlo a que no deje de comer y a que mame m\u00e1s seguido. Ofrecerle l\u00edquidos, leche o agua con frecuencia. \r\n\r\n2. A veces la tos es s\u00edntoma de un problema serio. Un ni\u00f1o o ni\u00f1a que respire agitadamente o con dificultad podr\u00eda padecer neumon\u00eda, que es una enfermedad muy grave.\r\n\r\n3. Las familias pueden contribuir a prevenir la neumon\u00eda mediante el cuidado de la alimentaci\u00f3n: los beb\u00e9s deben alimentarse exclusivamente con leche materna durante los primeros seis meses de vida y mantener la lactancia hasta los 2 a\u00f1os, con alimentaci\u00f3n complementaria; y todos los ni\u00f1os y ni\u00f1as deben estar bien alimentados y con todas las vacunas aplicadas. \r\n\r\n4. Un ni\u00f1o o ni\u00f1a con una tos continua que persiste durante m\u00e1s de una semana precisa atenci\u00f3n m\u00e9dica de inmediato. Podr\u00eda tener tuberculosis, una infecci\u00f3n en los pulmones u otra enfermedad importante. \r\n \r\n5. Los ni\u00f1os y ni\u00f1as y las mujeres embarazadas que respiran el humo de tabaco o del fuego empleado para cocinar son especialmente vulnerables al riesgo de contraer neumon\u00eda u otras enfermedades respiratorias. ", 
+  "content": "En la Argentina, las enfermedades respiratorias \u2013principalmente la neumon\u00eda\u2013 son la tercera causa en importancia de mortalidad de ni\u00f1os menores de 5 a\u00f1os, cuyas cifras alcanzan alrededor de 1.000 muertes anuales. La neumon\u00eda mata a m\u00e1s ni\u00f1os y ni\u00f1as que el SIDA, el paludismo y el sarampi\u00f3n juntos en todo el mundo: una de cada cinco muertes de menores de 5 a\u00f1os es consecuencia de esta infecci\u00f3n respiratoria. \r\n\r\n1. Si un ni\u00f1o (o ni\u00f1a) tiene tos, hay que mantenerlo abrigado sin exceso, confortable y animarlo a que no deje de comer y a que mame m\u00e1s seguido. Ofrecerle l\u00edquidos, leche o agua con frecuencia. \r\n\r\n2. A veces la tos es s\u00edntoma de un problema serio. Un ni\u00f1o o ni\u00f1a que respire agitadamente o con dificultad podr\u00eda padecer neumon\u00eda, que es una enfermedad muy grave.\r\n\r\n3. Las familias pueden contribuir a prevenir la neumon\u00eda mediante el cuidado de la alimentaci\u00f3n: los beb\u00e9s deben alimentarse exclusivamente con leche materna durante los primeros seis meses de vida y mantener la lactancia hasta los 2 a\u00f1os, con alimentaci\u00f3n complementaria; y todos los ni\u00f1os y ni\u00f1as deben estar bien alimentados y con todas las vacunas aplicadas. \r\n\r\n4. Un ni\u00f1o o ni\u00f1a con una tos continua que persiste durante m\u00e1s de una semana precisa atenci\u00f3n m\u00e9dica de inmediato. Podr\u00eda tener tuberculosis, una infecci\u00f3n en los pulmones u otra enfermedad importante. \r\n \r\n5. Los ni\u00f1os y ni\u00f1as y las mujeres embarazadas que respiran el humo de tabaco o del fuego empleado para cocinar son especialmente vulnerables al riesgo de contraer neumon\u00eda u otras enfermedades respiratorias. ", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 6, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-tos-el-catarro-y-otras-enfermedades-mas-graves", 
   "uuid": "09063da6c17043f49c4a4c15b65dba08"
