@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "En Argentina, las lesiones por agentes externos es una de las causas m\u00e1s importante de muerte de ni\u00f1os y ni\u00f1as. ", 
+  "description": "La prevenci\u00f3n de lesiones ", 
   "language": "spa_ES", 
   "title": "La prevenci\u00f3n de lesiones ", 
   "primary_category": "6a50de7c8ee541959eabe0378408846c", 
-  "created_at": "2015-04-15T14:32:51.801623+00:00", 
+  "created_at": "2015-04-15T14:32:51+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:32:51.801823+00:00", 
+  "modified_at": "2015-04-17T13:20:56.732118+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. Muchas lesiones graves pueden evitarse si los padres y otros cuidadores supervisan a los ni- \u00f1os y ni\u00f1as con atenci\u00f3n y velan por la seguridad de su entorno.\r\n\r\n2. Los ni\u00f1os y ni\u00f1as de corta edad corren peligro en las calles, caminos y rutas o sus cercan\u00edas. No deben jugar en estos lugares, y siempre debe haber un adulto con ellos para cuidarlos y supervisar el cruce de cualquier calle. Cuando anden en bicicleta o en motocicleta deben usar un casco, y siempre que se les transporte en un veh\u00edculo deben ir bien sujetos en una silla adecuada para su edad.\r\n\r\n3. Los ni\u00f1os y ni\u00f1as pueden ahogarse en menos de dos minutos y en una cantidad m\u00ednima de agua, incluso en una ba\u00f1era. Jam\u00e1s se les debe dejar solos en el agua o cerca de ella.\r\n\r\n4. Las quemaduras pueden evitarse manteniendo a los ni\u00f1os alejados del fuego, las hornallas, el horno de la cocina, los l\u00edquidos y alimentos calientes, y los cables de electricidad expuestos.\r\n\r\n5. Las ca\u00eddas son una de las principales causas de lesiones en los ni\u00f1os y ni\u00f1as, especialmente entre los de corta edad. Es necesario cerciorarse de que las escaleras, balcones, techos, ventanas y zonas de juego y de descanso sean seguros; para ello hay que colocar debidamente protecciones como puertas, rejas o barandas con barrotes verticales, que impidan que los ni\u00f1os y ni\u00f1as puedan caerse.\r\n\r\n6. Los medicamentos, venenos, insecticidas, lavandina, \u00e1cidos, fertilizantes l\u00edquidos y combustibles, como el kerosene, deben almacenarse bajo llave o trabas, fuera del alcance y la vista de los ni\u00f1os y ni\u00f1as.\r\n\r\n7. Los cuchillos, tijeras, objetos afilados o con punta, y los cristales rotos pueden ocasionar lesiones  graves. Estos objetos deber\u00e1n mantenerse fuera del alcance de ni\u00f1os y ni\u00f1as. Las bolsas de pl\u00e1stico, que pueden ocasionar asfixia, tambi\u00e9n deben mantenerse lejos de los ni\u00f1os de corta edad.\r\n\r\n8. A los ni\u00f1os y ni\u00f1as de corta edad les gusta meterse cosas en la boca; por eso es importante mantener los objetos peque\u00f1os fuera de su alcance.\r\n", 
+  "content": "En Argentina, las lesiones por agentes externos es una de las causas m\u00e1s importante de muerte de ni\u00f1os y ni\u00f1as.  \r\n\r\n1. Muchas lesiones graves pueden evitarse si los padres y otros cuidadores supervisan a los ni- \u00f1os y ni\u00f1as con atenci\u00f3n y velan por la seguridad de su entorno.\r\n\r\n2. Los ni\u00f1os y ni\u00f1as de corta edad corren peligro en las calles, caminos y rutas o sus cercan\u00edas. No deben jugar en estos lugares, y siempre debe haber un adulto con ellos para cuidarlos y supervisar el cruce de cualquier calle. Cuando anden en bicicleta o en motocicleta deben usar un casco, y siempre que se les transporte en un veh\u00edculo deben ir bien sujetos en una silla adecuada para su edad.\r\n\r\n3. Los ni\u00f1os y ni\u00f1as pueden ahogarse en menos de dos minutos y en una cantidad m\u00ednima de agua, incluso en una ba\u00f1era. Jam\u00e1s se les debe dejar solos en el agua o cerca de ella.\r\n\r\n4. Las quemaduras pueden evitarse manteniendo a los ni\u00f1os alejados del fuego, las hornallas, el horno de la cocina, los l\u00edquidos y alimentos calientes, y los cables de electricidad expuestos.\r\n\r\n5. Las ca\u00eddas son una de las principales causas de lesiones en los ni\u00f1os y ni\u00f1as, especialmente entre los de corta edad. Es necesario cerciorarse de que las escaleras, balcones, techos, ventanas y zonas de juego y de descanso sean seguros; para ello hay que colocar debidamente protecciones como puertas, rejas o barandas con barrotes verticales, que impidan que los ni\u00f1os y ni\u00f1as puedan caerse.\r\n\r\n6. Los medicamentos, venenos, insecticidas, lavandina, \u00e1cidos, fertilizantes l\u00edquidos y combustibles, como el kerosene, deben almacenarse bajo llave o trabas, fuera del alcance y la vista de los ni\u00f1os y ni\u00f1as.\r\n\r\n7. Los cuchillos, tijeras, objetos afilados o con punta, y los cristales rotos pueden ocasionar lesiones  graves. Estos objetos deber\u00e1n mantenerse fuera del alcance de ni\u00f1os y ni\u00f1as. Las bolsas de pl\u00e1stico, que pueden ocasionar asfixia, tambi\u00e9n deben mantenerse lejos de los ni\u00f1os de corta edad.\r\n\r\n8. A los ni\u00f1os y ni\u00f1as de corta edad les gusta meterse cosas en la boca; por eso es importante mantener los objetos peque\u00f1os fuera de su alcance.\r\n", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 1, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "la-prevencion-de-lesiones", 
   "uuid": "4affd52f3f1142e3a661cb831b747484"
