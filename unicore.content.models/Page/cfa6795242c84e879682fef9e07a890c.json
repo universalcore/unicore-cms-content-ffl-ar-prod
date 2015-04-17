@@ -1,22 +1,22 @@
 {
   "subtitle": "", 
-  "description": "La salud bucal es necesaria para una buena salud general. Una buena salud de los dientes comienza\r\ndesde el momento de la gestaci\u00f3n con la correcta alimentaci\u00f3n de la madre. Est\u00e1 demostrado que la\r\ninfecci\u00f3n bucal se trasmite de madre a hijo, durante el embarazo, por eso es responsabilidad de los\r\nservicios de salud ofrecer asistencia odontol\u00f3gica en cada momento de la vida, pero sobre todo en la\r\nni\u00f1ez y durante la gestaci\u00f3n. ", 
+  "description": "Salud bucal", 
   "language": "spa_ES", 
   "title": "Salud bucal", 
   "primary_category": "fe21cfb70c8c4701b78f2598cef0d353", 
-  "created_at": "2015-04-15T14:12:15.879700+00:00", 
+  "created_at": "2015-04-15T14:12:15+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:52:40.794893+00:00", 
+  "modified_at": "2015-04-17T13:31:18.618569+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. En el lactante, la aparici\u00f3n del primer diente es variable. Generalmente se presenta alrededor de los seis meses. A los dos a\u00f1os y medio se completa la primera dentici\u00f3n. Son los llamados dientes de leche o primarios.\r\n\r\n2. A partir de los seis a\u00f1os comienza la etapa de la dentici\u00f3n definitiva, con la aparici\u00f3n de las piezas permanentes, que llegar\u00e1n a sumar treinta y dos.\r\n\r\n3. Desde el primer a\u00f1o de vida, se debe incorporar una dieta adecuada, reducida en az\u00facares y, seg\u00fan el lugar de residencia, con agregado de fluoruro, bajo indicaci\u00f3n de un profesional.\r\n\r\n4. Con la aparici\u00f3n del primer diente de leche se debe iniciar el cepillado todos los d\u00edas y despu\u00e9s de cada comida.\r\n\r\n5. El cepillado deber\u00eda ser realizado por los padres hasta que el ni\u00f1o/a pueda hacerlo solo/a.\r\n\r\n6. Los ni\u00f1os deber\u00edan ser atendidos peri\u00f3dicamente por un odont\u00f3logo para evaluar la marcha de la dentici\u00f3n.", 
+  "content": "La salud bucal es necesaria para una buena salud general. Una buena salud de los dientes comienza desde el momento de la gestaci\u00f3n con la correcta  alimentaci\u00f3n de la madre. Est\u00e1 demostrado que la infecci\u00f3n bucal se trasmite de madre a hijo, durante el embarazo, por eso es responsabilidad de los servicios de salud ofrecer asistencia odontol\u00f3gica en cada momento de la vida, pero sobre todo en la ni\u00f1ez y durante la gestaci\u00f3n. \r\n\r\n1. En el lactante, la aparici\u00f3n del primer diente es variable. Generalmente se presenta alrededor de los seis meses. A los dos a\u00f1os y medio se completa la primera dentici\u00f3n. Son los llamados dientes de leche o primarios.\r\n\r\n2. A partir de los seis a\u00f1os comienza la etapa de la dentici\u00f3n definitiva, con la aparici\u00f3n de las piezas permanentes, que llegar\u00e1n a sumar treinta y dos.\r\n\r\n3. Desde el primer a\u00f1o de vida, se debe incorporar una dieta adecuada, reducida en az\u00facares y, seg\u00fan el lugar de residencia, con agregado de fluoruro, bajo indicaci\u00f3n de un profesional.\r\n\r\n4. Con la aparici\u00f3n del primer diente de leche se debe iniciar el cepillado todos los d\u00edas y despu\u00e9s de cada comida.\r\n\r\n5. El cepillado deber\u00eda ser realizado por los padres hasta que el ni\u00f1o/a pueda hacerlo solo/a.\r\n\r\n6. Los ni\u00f1os deber\u00edan ser atendidos peri\u00f3dicamente por un odont\u00f3logo para evaluar la marcha de la dentici\u00f3n.", 
   "source": null, 
   "featured": false, 
   "author_tags": [
