@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "En Am\u00e9rica Latina, la enfermedad de Chagas es un grave problema de salud p\u00fablica. En Argentina se estima que existen dos millones de personas infectadas, 600.000 de ellas con manifestaciones cl\u00ednicas.\r\n\r\nComo no hay una vacuna eficaz para prevenir la enfermedad, todas las medidas deben estar dirigidas a disminuir su transmisi\u00f3n erradicando el vector.", 
+  "description": "El Mal de Chagas", 
   "language": "spa_ES", 
   "title": "El Mal de Chagas", 
   "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
-  "created_at": "2015-04-15T14:28:44.000853+00:00", 
+  "created_at": "2015-04-15T14:28:44+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:28:44.001070+00:00", 
+  "modified_at": "2015-04-17T13:32:14.686946+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. El Mal de Chagas es una enfermedad cr\u00f3nica, ocasionada por un par\u00e1sito y trasmitida por un insecto.\r\n\r\n2. La vinchuca, que es el insecto que trasmite la enfermedad, tiene h\u00e1bitos domiciliarios y pr\u00e1cticas nocturnas.\r\n\r\n3. La enfermedad de Chagas tiene dos fases, una aguda y una cr\u00f3nica.\r\n\r\n4. El tratamiento para la enfermedad de Chagas tiene como objetivo curar la infecci\u00f3n y reducir la probabilidad de desarrollar la enfermedad para disminuir la cadena de transmisi\u00f3n, pero s\u00f3lo se puede administrar en momentos muy espec\u00edficos.\r\n\r\n5. La medida m\u00e1s efectiva para evitar el Mal de Chagas es disminuir el n\u00famero de vinchucas, para interrumpir la transmisi\u00f3n del par\u00e1sito y de esa manera reducir las posibilidades de contagio. Hay b\u00e1sicamente dos alternativas de control de la vinchuca: el uso de insecticidas para las casas ubicabas en \u00e1reas infestadas y mejorar las condiciones f\u00edsicas de la vivienda para que la vinchuca no pueda vivir en ellas. Estas medidas pueden ser complementarias, pero sin duda, la segunda es la m\u00e1s impactante de las dos. ", 
+  "content": "En Am\u00e9rica Latina, la enfermedad de Chagas es un grave problema de salud p\u00fablica. En Argentina se estima que existen dos millones de personas infectadas, 600.000 de ellas con manifestaciones cl\u00ednicas.\r\n\r\nComo no hay una vacuna eficaz para prevenir la enfermedad, todas las medidas deben estar dirigidas a disminuir su transmisi\u00f3n erradicando el vector.\r\n\r\n1. El Mal de Chagas es una enfermedad cr\u00f3nica, ocasionada por un par\u00e1sito y trasmitida por un insecto.\r\n\r\n2. La vinchuca, que es el insecto que trasmite la enfermedad, tiene h\u00e1bitos domiciliarios y pr\u00e1cticas nocturnas.\r\n\r\n3. La enfermedad de Chagas tiene dos fases, una aguda y una cr\u00f3nica.\r\n\r\n4. El tratamiento para la enfermedad de Chagas tiene como objetivo curar la infecci\u00f3n y reducir la probabilidad de desarrollar la enfermedad para disminuir la cadena de transmisi\u00f3n, pero s\u00f3lo se puede administrar en momentos muy espec\u00edficos.\r\n\r\n5. La medida m\u00e1s efectiva para evitar el Mal de Chagas es disminuir el n\u00famero de vinchucas, para interrumpir la transmisi\u00f3n del par\u00e1sito y de esa manera reducir las posibilidades de contagio. Hay b\u00e1sicamente dos alternativas de control de la vinchuca: el uso de insecticidas para las casas ubicabas en \u00e1reas infestadas y mejorar las condiciones f\u00edsicas de la vivienda para que la vinchuca no pueda vivir en ellas. Estas medidas pueden ser complementarias, pero sin duda, la segunda es la m\u00e1s impactante de las dos. ", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "el-mal-de-chagas", 
   "uuid": "41e1d4ebf6f5450cb6b0da18ef1e477f"
