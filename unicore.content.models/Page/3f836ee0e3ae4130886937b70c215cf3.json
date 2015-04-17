@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "El dengue es la principal enfermedad viral transmitida por artr\u00f3podos. ", 
+  "description": "El dengue", 
   "language": "spa_ES", 
   "title": "El dengue", 
   "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
-  "created_at": "2015-04-15T14:26:57.930896+00:00", 
+  "created_at": "2015-04-15T14:26:57+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:26:57.931104+00:00", 
+  "modified_at": "2015-04-17T14:21:27.010853+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. El dengue se transmite a trav\u00e9s de la picadura de un mosquito.\r\n\r\n2. En zonas donde el dengue es frecuente, si unnni\u00f1o o ni\u00f1a tiene fiebre, no debe recibir aspirina ni ibuprofeno y debe ser examinado por un trabajador de salud, ya que siempre corre peligro de padecer la enfermedad.\r\n\r\n3. Hay algunos signos de alarma que, si aparecen, requieren de una consulta urgente.\r\n\r\n4. No hay tratamiento espec\u00edfico para curar el dengue.\r\n\r\n5. En las zonas donde el mosquito no se ha podido erradicar hay que tener cuidados especiales.\r\n\r\n6. Sin mosquito no hay dengue, y la participaci\u00f3n de la comunidad es la mejor estrategia para controlar la reproducci\u00f3n del mosquito y as\u00ed prevenir la enfermedad.\r\n\r\n7. Prevenir implica tener conocimiento y responsabilidad ambiental.", 
+  "content": "El dengue es la principal enfermedad viral transmitida por artr\u00f3podos. \r\n\r\n1. El dengue se transmite a trav\u00e9s de la picadura de un mosquito.\r\n\r\n2. En zonas donde el dengue es frecuente, si unnni\u00f1o o ni\u00f1a tiene fiebre, no debe recibir aspirina ni ibuprofeno y debe ser examinado por un trabajador de salud, ya que siempre corre peligro de padecer la enfermedad.\r\n\r\n3. Hay algunos signos de alarma que, si aparecen, requieren de una consulta urgente.\r\n\r\n4. No hay tratamiento espec\u00edfico para curar el dengue.\r\n\r\n5. En las zonas donde el mosquito no se ha podido erradicar hay que tener cuidados especiales.\r\n\r\n6. Sin mosquito no hay dengue, y la participaci\u00f3n de la comunidad es la mejor estrategia para controlar la reproducci\u00f3n del mosquito y as\u00ed prevenir la enfermedad.\r\n\r\n7. Prevenir implica tener conocimiento y responsabilidad ambiental.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "el-dengue", 
   "uuid": "3f836ee0e3ae4130886937b70c215cf3"
