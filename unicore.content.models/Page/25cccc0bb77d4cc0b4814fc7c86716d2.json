@@ -1,28 +1,31 @@
 {
   "subtitle": "", 
-  "description": "El VIH (Virus de la Inmunodeficiencia Humana), el virus que causa el SIDA (S\u00edndrome de Inmunodeficiencia Adquirida), afecta la vida de los ni\u00f1os, ni\u00f1as, adolescentes y sus familias en todos los pa\u00edses del planeta. ", 
+  "description": "El VIH", 
   "language": "spa_ES", 
   "title": "El VIH", 
   "primary_category": "6f3025c5788a43268f28ce6f658f8b87", 
-  "created_at": "2015-04-15T14:30:32.571159+00:00", 
+  "created_at": "2015-04-15T14:30:32+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-15T14:30:32.571346+00:00", 
+  "modified_at": "2015-04-17T13:31:41.806256+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": null, 
-  "content": "1. El VIH es el virus que causa el SIDA (s\u00edndrome de inmunodeficiencia adquirida). Se trata de una afecci\u00f3n que puede prevenirse y tratarse, pero es incurable.\r\n\r\n2. Existe informaci\u00f3n disponible sobre el VIH para que todas las personas puedan acceder a ella.\r\n\r\n3. Todas las mujeres embarazadas deber\u00edan hablar del VIH con su m\u00e9dico obstetra o con la partera, realizarse la prueba de detecci\u00f3n del VIH y recibir asesoramiento acerca de c\u00f3mo protegerse o cuidarse a s\u00ed mismas y a sus hijos, parejas y familiares.\r\n\r\n4. A todos los ni\u00f1os que nacen de madres y/o padres con VIH, o que presentan s\u00edntomas, indicios o afecciones asociadas a la infecci\u00f3n por este virus, se les debe realizar la prueba para su detecci\u00f3n.\r\n\r\n5. Los padres u otros cuidadores deber\u00edan hablar con sus hijas e hijos acerca de las relaciones sexuales y la sexualidad en general.\r\n\r\n6. Los padres, madres y/o cuidadores, maestros, dirigentes de grupos y otras personas que sean modelos de conducta para los adolescentes deber\u00edan proveerles un entorno seguro a los j\u00f3venes y educarlos para que cuenten con habilidades sociales y con una educaci\u00f3n sexual integral.\r\n\r\n7. Los ni\u00f1os, ni\u00f1as y adolescentes deber\u00edan participar activamente en el dise\u00f1o, la implementaci\u00f3n, el monitoreo y la evaluaci\u00f3n de todas aquellas acciones y pol\u00edticas p\u00fablicas que los impliquen a ellos, a sus familias y a la comunidad, vinculadas con la prevenci\u00f3n del VIH y la atenci\u00f3n y el apoyo de las personas que lo padecen.\r\n\r\n8. Las familias afectadas por el VIH pueden necesitar apoyo econ\u00f3mico y servicios de asistencia social que les ayuden en el cuidado de sus familiares enfermos, incluidos los ni\u00f1os.\r\n\r\n9. Ning\u00fan ni\u00f1o, ni\u00f1a o adulto que viva con el VIH debe ser se\u00f1alado y estigmatizado ni sufrir ninguna discriminaci\u00f3n.\r\n\r\n10.Todas las mujeres tienen derecho a una atenci\u00f3n sanitaria de calidad, pero especialmente las embarazadas. Por eso los trabajadores del sector de la salud no s\u00f3lo deben ser competentes desde el punto de vista t\u00e9cnico, tambi\u00e9n deben tomar en consideraci\u00f3n las pr\u00e1cticas culturales de la sociedad en que se trabajen y tratar con respeto a todas las mujeres embarazadas, incluyendo a las ni\u00f1as adolescentes.\r\n\r\n11.Todas las personas, tambi\u00e9n las que viven con el VIH, deben conocer sus derechos.", 
+  "content": "El VIH (Virus de la Inmunodeficiencia Humana), el virus que causa el SIDA (S\u00edndrome de Inmunodeficiencia Adquirida), afecta la vida de los ni\u00f1os, ni\u00f1as, adolescentes y sus familias en todos los pa\u00edses del planeta. \r\n\r\n1. El VIH es el virus que causa el SIDA (s\u00edndrome de inmunodeficiencia adquirida). Se trata de una afecci\u00f3n que puede prevenirse y tratarse, pero es incurable.\r\n\r\n2. Existe informaci\u00f3n disponible sobre el VIH para que todas las personas puedan acceder a ella.\r\n\r\n3. Todas las mujeres embarazadas deber\u00edan hablar del VIH con su m\u00e9dico obstetra o con la partera, realizarse la prueba de detecci\u00f3n del VIH y recibir asesoramiento acerca de c\u00f3mo protegerse o cuidarse a s\u00ed mismas y a sus hijos, parejas y familiares.\r\n\r\n4. A todos los ni\u00f1os que nacen de madres y/o padres con VIH, o que presentan s\u00edntomas, indicios o afecciones asociadas a la infecci\u00f3n por este virus, se les debe realizar la prueba para su detecci\u00f3n.\r\n\r\n5. Los padres u otros cuidadores deber\u00edan hablar con sus hijas e hijos acerca de las relaciones sexuales y la sexualidad en general.\r\n\r\n6. Los padres, madres y/o cuidadores, maestros, dirigentes de grupos y otras personas que sean modelos de conducta para los adolescentes deber\u00edan proveerles un entorno seguro a los j\u00f3venes y educarlos para que cuenten con habilidades sociales y con una educaci\u00f3n sexual integral.\r\n\r\n7. Los ni\u00f1os, ni\u00f1as y adolescentes deber\u00edan participar activamente en el dise\u00f1o, la implementaci\u00f3n, el monitoreo y la evaluaci\u00f3n de todas aquellas acciones y pol\u00edticas p\u00fablicas que los impliquen a ellos, a sus familias y a la comunidad, vinculadas con la prevenci\u00f3n del VIH y la atenci\u00f3n y el apoyo de las personas que lo padecen.\r\n\r\n8. Las familias afectadas por el VIH pueden necesitar apoyo econ\u00f3mico y servicios de asistencia social que les ayuden en el cuidado de sus familiares enfermos, incluidos los ni\u00f1os.\r\n\r\n9. Ning\u00fan ni\u00f1o, ni\u00f1a o adulto que viva con el VIH debe ser se\u00f1alado y estigmatizado ni sufrir ninguna discriminaci\u00f3n.\r\n\r\n10.Todas las mujeres tienen derecho a una atenci\u00f3n sanitaria de calidad, pero especialmente las embarazadas. Por eso los trabajadores del sector de la salud no s\u00f3lo deben ser competentes desde el punto de vista t\u00e9cnico, tambi\u00e9n deben tomar en consideraci\u00f3n las pr\u00e1cticas culturales de la sociedad en que se trabajen y tratar con respeto a todas las mujeres embarazadas, incluyendo a las ni\u00f1as adolescentes.\r\n\r\n11.Todas las personas, tambi\u00e9n las que viven con el VIH, deben conocer sus derechos.", 
   "source": null, 
   "featured": false, 
-  "author_tags": [], 
+  "author_tags": [
+    "argentina", 
+    "unicef"
+  ], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 2, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "el-vih", 
   "uuid": "25cccc0bb77d4cc0b4814fc7c86716d2"
